@@ -52,7 +52,7 @@ It keeps GW2's art style intact and mostly cleans up jagged edges and shimmering
 
 - **The HUD mask only fits 2560 × 1440 with interface size "Normal".** Other resolutions or UI sizes need a new mask (paint white boxes over your HUD on a black 1:1 screenshot-sized PNG).
 - Moving elements that are not masked (damage numbers, nameplates) can look slightly soft in motion because of the temporal pass.
-- A bit of trailing in motion? Lower ATA's **Accumulation value** (0.80 → 0.75) or switch to **NonLocal** mode with `ACCUMULATION_QUALITY` set to 0.
+- A bit of trailing in motion? Lower ATA's **Accumulation value** (0.90 → 0.80) or switch to **NonLocal** mode with `ACCUMULATION_QUALITY` set to 0.
 - ArenaNet does not endorse any third-party program. ReShade is widely used in GW2, but use it at your own risk.
 
 ## Credits
@@ -126,7 +126,7 @@ Il respecte la direction artistique de GW2 et nettoie surtout les bords crénel�
 
 - **Le masque du HUD n'est valable qu'en 2560 × 1440 avec une interface « Normale ».** Pour une autre résolution ou taille d'interface, il faut refaire le masque (rectangles blancs sur fond noir, à la taille exacte de l'écran).
 - Les éléments mobiles non masqués (chiffres de dégâts, noms) peuvent paraître un peu doux en mouvement à cause de la passe temporelle.
-- Un peu de traînée en mouvement ? Baisse l'**Accumulation value** d'ATA (0,80 → 0,75) ou passe en mode **NonLocal** avec `ACCUMULATION_QUALITY` à 0.
+- Un peu de traînée en mouvement ? Baisse l'**Accumulation value** d'ATA (0,90 → 0,80) ou passe en mode **NonLocal** avec `ACCUMULATION_QUALITY` à 0.
 - ArenaNet ne valide aucun programme tiers. ReShade est très utilisé sur GW2, mais son usage reste à tes risques.
 
 ## Crédits
