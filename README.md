@@ -48,6 +48,8 @@ It keeps GW2's art style intact and mostly cleans up jagged edges and shimmering
 | Reflections | None (big CPU saving) |
 | Character Model Limit / Quality | Lower them in crowded metas |
 
+Optional: cap at 40 FPS (RTSS) + Lossless Scaling x2 for a smooth 80 FPS on CPU-limited setups like mine !
+
 ## Notes
 
 - **The HUD mask only fits 2560 × 1440 with interface size "Normal".** Other resolutions or UI sizes need a new mask (paint white boxes over your HUD on a black 1:1 screenshot-sized PNG).
@@ -122,6 +124,7 @@ Il respecte la direction artistique de GW2 et nettoie surtout les bords crénel�
 | Réflexions | Aucune (gros gain CPU) |
 | Limite / Qualité des modèles de personnages | À baisser en méta |
 
+Optionnel : caper les FPS à 40 avec RTSS + utiliser Lossless Scaling en frame generation x2 pour avoir 80 FPS stables pour une configuration CPU-limited comme la mienne !
 ## Remarques
 
 - **Le masque du HUD n'est valable qu'en 2560 × 1440 avec une interface « Normale ».** Pour une autre résolution ou taille d'interface, il faut refaire le masque (rectangles blancs sur fond noir, à la taille exacte de l'écran).
