@@ -1,5 +1,7 @@
 # GW2 Clean & Sharp – ReShade preset for Guild Wars 2
 
+   **[⬇ Download v1.1](https://github.com/A3dge/Aedge-GW2-Clean-and-sharp-antialiasing-and-SSAO-preset-1440p/raw/main/Aedge-GW2-ReShade-v1.1.zip)**
+
 A lightweight, gameplay-oriented preset focused on **sharpness and minimal aliasing**, not on color grading.
 It keeps GW2's art style intact and mostly cleans up jagged edges and shimmering in motion.
 
