@@ -66,6 +66,7 @@ Optional: cap at 40 FPS (RTSS) + Lossless Scaling x2 for a smooth 80 FPS on CPU-
 ## Changelog
 
 - **v1.0** – Initial release
+- **v1.1** – Sharpening 0.40 → 0.25 (removes noise), ATA accumulation 0.90 → 0.85, MXAO quality High + Filter 2
 
 
 
@@ -141,5 +142,6 @@ Optionnel : caper les FPS à 40 avec RTSS + utiliser Lossless Scaling en frame g
 ## Historique
 
 - **v1.0** – Première version
+- **v1.1** – Netteté 0,40 → 0,25 (supprime le bruit), accumulation ATA 0,90 → 0,85, MXAO en qualité High + filtre 2
 
 
